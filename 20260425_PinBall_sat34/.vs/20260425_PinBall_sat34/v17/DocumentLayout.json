@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\20260425_PinBall_sat34\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58B81922-0241-2BA0-F7FB-F525F268212E}|Assembly-CSharp.csproj|c:\\users\\student\\desktop\\20260425_pinball_sat34\\assets\\scripts\\plunger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B81922-0241-2BA0-F7FB-F525F268212E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plunger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plunger.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\20260425_PinBall_sat34\\Assets\\Scripts\\Plunger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Plunger.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\20260425_PinBall_sat34\\Assets\\Scripts\\Plunger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Plunger.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T06:26:02.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

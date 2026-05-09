@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\PaperSumo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15810A4D-EA55-25EC-3F53-21CDA771D8F4}|Assembly-CSharp.csproj|c:\\users\\student\\desktop\\papersumo\\assets\\scripts\\rikishifallcecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15810A4D-EA55-25EC-3F53-21CDA771D8F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rikishifallcecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15810A4D-EA55-25EC-3F53-21CDA771D8F4}|Assembly-CSharp.csproj|c:\\users\\student\\desktop\\papersumo\\assets\\scripts\\groundtap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15810A4D-EA55-25EC-3F53-21CDA771D8F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundtap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15810A4D-EA55-25EC-3F53-21CDA771D8F4}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\PaperSumo\\assets\\scripts\\dohyoshaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15810A4D-EA55-25EC-3F53-21CDA771D8F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dohyoshaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RikiShiFallCecker.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PaperSumo\\Assets\\Scripts\\RikiShiFallCecker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RikiShiFallCecker.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PaperSumo\\Assets\\Scripts\\RikiShiFallCecker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RikiShiFallCecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T05:21:15.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroundTap.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PaperSumo\\Assets\\Scripts\\GroundTap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundTap.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PaperSumo\\Assets\\Scripts\\GroundTap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundTap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T04:37:30.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DohyoShaker.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PaperSumo\\Assets\\Scripts\\DohyoShaker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DohyoShaker.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PaperSumo\\Assets\\Scripts\\DohyoShaker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DohyoShaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T04:23:48.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

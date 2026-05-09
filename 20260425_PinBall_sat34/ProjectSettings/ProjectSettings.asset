@@ -853,8 +853,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 20260425_PinBall_sat34
-  metroPackageVersion: 
+  metroPackageName: 20260425PinBallsat34
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -862,7 +862,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: 20260425_PinBall_sat34
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: 20260425_PinBall_sat34
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -929,7 +929,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 2ee26562-ad63-4b08-be5c-96ebf948db5d
   framebufferDepthMemorylessMode: 0

@@ -14,11 +14,9 @@ public class Plunger : MonoBehaviour
     {
         if (isBallReady)
         {
-            // キーボードのスペースキーの状態を取得
             var keyboard = Keyboard.current;
             if (keyboard == null) return;
 
-            // キーを押している間
             if (keyboard.spaceKey.isPressed)
             {
                 if (currentForce < maxForce)
@@ -27,7 +25,6 @@ public class Plunger : MonoBehaviour
                 }
             }
 
-            // キーを離した瞬間
             if (keyboard.spaceKey.wasReleasedThisFrame)
             {
                 LaunchBall();

@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\Danmaku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|c:\\users\\student\\desktop\\danmaku\\assets\\scripts\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|c:\\users\\student\\desktop\\danmaku\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\Danmaku\\assets\\scripts\\bulletmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\Danmaku\\assets\\scripts\\hpdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hpdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\Danmaku\\assets\\scripts\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\Danmaku\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\Danmaku\\assets\\scripts\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\Danmaku\\assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE666B-2062-8A6F-2EFA-F1B0D76B2219}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BossController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\BossController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\BossController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:46:22.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:38:24.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HPData.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\HPData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HPData.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\HPData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HPData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:33:41.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BulletSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\BulletSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletSpawner.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\BulletSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:59:48.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:51:27.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:43:42.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulletMove.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\BulletMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletMove.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\BulletMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletMove.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:29:46.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Danmaku\\Assets\\Scripts\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:13:09.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-MazeGame-1.0";
 const contentToCache = [
-    "Build/Mize.loader.js",
-    "Build/Mize.framework.js",
-    "Build/Mize.data",
-    "Build/Mize.wasm",
+    "Build/Build.loader.js",
+    "Build/Build.framework.js",
+    "Build/Build.data",
+    "Build/Build.wasm",
     "TemplateData/style.css"
 
 ];

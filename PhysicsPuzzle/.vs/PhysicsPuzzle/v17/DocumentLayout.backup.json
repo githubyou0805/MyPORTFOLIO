@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\PhysicsPuzzle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784986DC-20EB-13E9-B043-CF9055F6510A}|Assembly-CSharp.csproj|c:\\users\\student\\desktop\\physicspuzzle\\assets\\scripts\\draggableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784986DC-20EB-13E9-B043-CF9055F6510A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\draggableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784986DC-20EB-13E9-B043-CF9055F6510A}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\PhysicsPuzzle\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784986DC-20EB-13E9-B043-CF9055F6510A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784986DC-20EB-13E9-B043-CF9055F6510A}|Assembly-CSharp.csproj|c:\\users\\student\\desktop\\physicspuzzle\\assets\\scripts\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784986DC-20EB-13E9-B043-CF9055F6510A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784986DC-20EB-13E9-B043-CF9055F6510A}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\PhysicsPuzzle\\assets\\scripts\\placeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784986DC-20EB-13E9-B043-CF9055F6510A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DraggableItem.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PhysicsPuzzle\\Assets\\Scripts\\DraggableItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DraggableItem.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PhysicsPuzzle\\Assets\\Scripts\\DraggableItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DraggableItem.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T05:27:46.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlacedItem.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PhysicsPuzzle\\Assets\\Scripts\\PlacedItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlacedItem.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PhysicsPuzzle\\Assets\\Scripts\\PlacedItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlacedItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T04:54:38.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemSlot.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PhysicsPuzzle\\Assets\\Scripts\\ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemSlot.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PhysicsPuzzle\\Assets\\Scripts\\ItemSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T04:53:48.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PhysicsPuzzle\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PhysicsPuzzle\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T04:52:51.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
